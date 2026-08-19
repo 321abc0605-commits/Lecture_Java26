@@ -1,0 +1,2 @@
+내pc d:\ -namespace , -scope
+Namespace = 이름을 저장해 놓는 공간, Scope = 그 이름을 찾을 수 있는 범위
